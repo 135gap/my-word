@@ -1,2 +1,1 @@
-# my-word
-Just another reposltory
+Don't just envy, otherwise envy will become envy.
